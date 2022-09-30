@@ -1,0 +1,17 @@
+{
+  "name": "mi-primer-proyecto-de-node",
+  "version": "1.0.0",
+  "description": "este es el primer proyecto de node en javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "firstproyect"
+  ],
+  "author": "maidana.martin",
+  "license": "ISC"
+}
